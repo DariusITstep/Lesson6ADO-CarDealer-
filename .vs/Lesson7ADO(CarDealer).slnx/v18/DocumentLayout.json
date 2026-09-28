@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|x:\\work\\git-ado\\lesson7ado(cardealer)\\lesson7ado(cardealer)\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BF5B2D6B-0378-44DF-91F1-183958941B5E}|Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer).csproj|solutionrelative:lesson7ado(cardealer)\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Validators.cs",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\Validators.cs",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Validators.cs",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\Validators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:53:47.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Filters.cs",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\Filters.cs",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Filters.cs",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\Filters.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:26:25.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Utils.cs",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\Utils.cs",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Utils.cs",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\Utils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T19:48:18.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Handler.cs",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\Handler.cs",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Handler.cs",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\Handler.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAA8BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T19:23:25.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\UI.cs",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\UI.cs",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\UI.cs",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\UI.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T19:14:06.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\Model1.Context.cs",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Model1.Context.cs",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\Model1.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:54:22.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Model1.edmx",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\Model1.edmx",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-09-28T18:53:53.902Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7ADO(CarDealer)\\Program.cs",
+              "ToolTip": "X:\\Work\\GIT-ADO\\Lesson7ADO(CarDealer)\\Lesson7ADO(CarDealer)\\Program.cs",
+              "RelativeToolTip": "Lesson7ADO(CarDealer)\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:51:53.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

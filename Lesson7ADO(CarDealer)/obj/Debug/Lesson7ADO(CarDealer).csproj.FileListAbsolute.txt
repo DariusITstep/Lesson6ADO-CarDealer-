@@ -1,0 +1,12 @@
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\bin\Debug\Lesson7ADO(CarDealer).exe.config
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\bin\Debug\Lesson7ADO(CarDealer).exe
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\bin\Debug\Lesson7ADO(CarDealer).pdb
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\bin\Debug\EntityFramework.dll
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\bin\Debug\EntityFramework.SqlServer.dll
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\bin\Debug\EntityFramework.xml
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\bin\Debug\EntityFramework.SqlServer.xml
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\obj\Debug\Lesson7ADO(CarDealer).csproj.AssemblyReference.cache
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\obj\Debug\Lesson7ADO(CarDealer).csproj.CoreCompileInputs.cache
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\obj\Debug\Lesson7A.B99BA842.Up2Date
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\obj\Debug\Lesson7ADO(CarDealer).exe
+X:\Work\GIT-ADO\Lesson7ADO(CarDealer)\Lesson7ADO(CarDealer)\obj\Debug\Lesson7ADO(CarDealer).pdb
